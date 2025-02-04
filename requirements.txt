@@ -1,0 +1,8 @@
+bs4
+rich
+pytz
+requests
+licensing
+prompt_toolkit
+pycryptodomex
+pynacl
